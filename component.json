@@ -1,0 +1,16 @@
+{
+  "name": "moment-strftime",
+  "repo": "Crunch-io/moment-strftime",
+  "description": "moment-tokens - componentized",
+  "version": "0.1.0",
+  "keywords": [],
+  "dependencies": {
+      "moment/moment":"*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
